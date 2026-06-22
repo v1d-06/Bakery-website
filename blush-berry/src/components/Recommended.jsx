@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MENU_ITEMS } from '../data/menuData';
+import { MENU_ITEMS } from '../data/menuData.js';
 import { useBasket } from '../context/BasketContext';
 import { useNavigate } from 'react-router-dom';
 

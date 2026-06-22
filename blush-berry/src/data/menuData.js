@@ -258,7 +258,7 @@ export const MENU_ITEMS = [
     price: 190,
     desc: "Fluffy yeast-raised donut dipped in a thick, rich chocolate ganache.",
     tag: "",
-    img: chocop,
+    img: chocoP,
     emoji: "🍩"
   },
 

@@ -11,11 +11,12 @@ import Features from "./components/Features";
 import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
 import FloatingBasket from "./components/FloatingBasket";
+import Newsletter from "./components/Newsletter";
+import ScrollToTop from "./components/ScrollToTop";
+
 import Story from "./pages/Story";
 import FullMenu from "./pages/FullMenu";
 import Contact from "./pages/Contact";
-import Newsletter from "./components/Newsletter";
-import ScrollToTop from "./components/ScrollToTop";
 
 
 function HomePage() {

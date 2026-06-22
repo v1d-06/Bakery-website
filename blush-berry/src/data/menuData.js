@@ -3,9 +3,9 @@ import blueberrycup from "../assets/blueberrycup.jpg";
 import blueberryzestP from "../assets/blueberryzestP.jpg";
 import ccake4 from "../assets/ccake4.jpg";
 import Challah from "../assets/Challah.jpg";
-import chocop from "../assets/chocop.jpg";
+import chocoP from "../assets/chocoP.jpg";
 import coffee from "../assets/coffee.jpg";
-import cookiesandcreamcup from "../assets/cookiesandcreamcup.jpg";
+import cookiesandCreamcup from "../assets/cookiesandCreamcup.jpg";
 import Croissant from "../assets/Croissant.jpg";
 import GoldendrizzleP from "../assets/GoldendrizzleP.jpg";
 import hotchocolate from "../assets/hotchocolate.jpg";
@@ -42,7 +42,7 @@ export const MENU_ITEMS = [
     price: 290,
     desc: "Chocolate cupcake topped with Oreo buttercream frosting.",
     tag: "",
-    img: cookiesandcreamcup,
+    img: cookiesandCreamcup,
   },
 
   {
@@ -110,7 +110,7 @@ export const MENU_ITEMS = [
     price: 260,
     desc: "Dense chocolate brownie topped with rich cocoa glaze.",
     tag: "",
-    img: chocop,
+    img: chocoP,
   },
 
   {

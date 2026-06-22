@@ -4,9 +4,7 @@ import hero_img from '../assets/hero_img.jpg';
 export default function Hero() {
   return (
     <>
-      {/* Tailwind Keyframe Additions (Optional inline backup if not using tailwind.config.js)
-        Provides smooth fade-ups, staggered element entrance, and a slow image pan.
-      */}
+      
       <style>{`
         @keyframes customFadeUp {
           from { opacity: 0; transform: translateY(30px); }
